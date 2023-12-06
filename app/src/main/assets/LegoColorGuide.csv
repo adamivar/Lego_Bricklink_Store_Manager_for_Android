@@ -1,0 +1,202 @@
+0,Uncolored,ffffff
+1,White,f2f3f2
+2,Tan,d6c69b
+3,Yellow,f4cf42
+4,Orange,d98645
+5,Red,c2281e
+6,Green,2a8049
+7,Blue,1867a9
+8,Brown,61473c
+9,Light Gray,a1a5a2
+10,Dark Gray,6d6e6c
+11,Black,1c2a34
+12,Trans-Clear,ececec
+13,Trans-Black,bfb7b1
+14,Trans-Dark Blue,7db5e6
+15,Trans-Light Blue,c2dfef
+16,Trans-Neon Green,f7f28b
+17,Trans-Red,cc544c
+18,Trans-Neon Orange,d8856e
+19,Trans-Yellow,f6f293
+20,Trans-Green,85b78f
+21,Chrome Gold,baa646
+22,Chrome Silver,e0e0e0
+23,Pink,fb96ac
+24,Purple,6b2f79
+25,Salmon,f07060
+26,Light Salmon,edc4b7
+27,Rust,8e4c2d
+28,Flesh,cb8e6a
+29,Earth Orange,ca8547
+31,Medium Orange,e19c47
+32,Light Orange,e9b993
+33,Light Yellow,f8ea9e
+34,Lime,a4be50
+35,Light Lime,d9e5aa
+36,Bright Green,4c984f
+37,Medium Green,a1c58e
+38,Light Green,c2dbba
+39,Dark Turquoise,118f9a
+40,Light Turquoise,58a5ae
+41,Aqua,b8d7d5
+42,Medium Blue,7098c7
+43,Violet,445291
+44,Light Violet,c1cadd
+46,Glow In Dark Opaque,ece8de
+47,Dark Pink,cc6096
+48,Sand Green,789082
+49,Very Light Gray,c7c1b7
+50,Trans-Dark Pink,e3acc7
+51,Trans-Purple,a5a4ca
+52,Chrome Blue,6e95bd
+54,Sand Purple,877c8f
+55,Sand Blue,75869b
+56,Light Pink,db9095
+57,Chrome Antique Brass,645a4d
+58,Sand Red,957976
+59,Dark Red,7a2e2f
+60,Milky White,ffffff
+61,Pearl Light Gold,dbbd84
+62,Light Blue,b5d2e2
+63,Dark Blue,213955
+64,Chrome Green,3fb474
+65,Metallic Gold,b6882b
+66,Pearl Light Gray,9ca3a8
+67,Metallic Silver,c0c0c0
+68,Dark Orange,9f5f37
+69,Dark Tan,958a74
+70,Metallic Green,bbb77b
+71,Magenta,913776
+72,Maersk Blue,3a91c1
+73,Medium Violet,958dde
+74,Trans-Medium Blue,d0e2f6
+76,Medium Lime,c6d44b
+77,Pearl Dark Gray,575857
+78,Metal Blue,7a87a0
+80,Dark Green,27462d
+81,Flat Dark Gold,b38558
+82,Chrome Pink,a94b8c
+83,Pearl White,f2f3f2
+84,Copper,ad7a5b
+85,Dark Bluish Gray,635f61
+86,Light Bluish Gray,a3a2a4
+87,Sky Blue,7fbadc
+88,Reddish Brown,684029
+89,Dark Purple,352873
+90,Light Flesh,f5d8b5
+91,Dark Flesh,7b5c46
+93,Light Purple,8d4083
+94,Medium Dark Pink,c36f9f
+95,Flat Silver,898788
+96,Very Light Orange,f2d09e
+97,Blue-Violet,6973aa
+98,Trans-Orange,ee902b
+99,Very Light Bluish Gray,e5e4de
+100,Glitter Trans-Dark Pink,de6594
+101,Glitter Trans-Clear,b2adaa
+102,Glitter Trans-Purple,64005f
+103,Bright Light Yellow,fceb92
+104,Bright Pink,e3acc7
+105,Bright Light Blue,a0c2e7
+106,Fabuland Brown,b57c53
+107,Trans-Pink,e3acc7
+108,Trans-Bright Green,d9e5aa
+109,Dark Blue-Violet,252bad
+110,Bright Light Orange,e7ac3b
+111,Speckle Black-Silver,7c7e7c
+113,Trans-Very Lt Blue,c2dfef
+114,Trans-Light Purple,966f9d
+115,Pearl Gold,a98035
+116,Speckle Black-Copper,5f4e47
+117,Speckle DBGray-Silver,635f61
+118,Glow In Dark Trans,bdc6ae
+119,Pearl Very Light Gray,abadac
+120,Dark Brown,352102
+121,Trans-Neon Yellow,d9b126
+122,Chrome Black,1c2a34
+123,Mx White,ffffff
+124,Mx Light Bluish Gray,afb5c6
+125,Mx Light Gray,9c9c9c
+126,Mx Charcoal Gray,595d60
+127,Mx Tile Gray,6b5a5a
+128,Mx Black,0
+129,Mx Red,b42c22
+130,Mx Pink Red,f25c43
+131,Mx Tile Brown,320000
+132,Mx Brown,8f7452
+133,Mx Buff,ddc79e
+134,Mx Terracotta,5c5032
+135,Mx Orange,f27c37
+136,Mx Light Orange,f6ae68
+137,Mx Light Yellow,fee479
+138,Mx Ochre Yellow,fdd661
+139,Mx Lemon,bcc833
+140,Mx Olive Green,7c9155
+141,Mx Pastel Green,7db643
+142,Mx Aqua Green,2b867e
+143,Mx Tile Blue,0e55a3
+144,Mx Medium Blue,65adfc
+145,Mx Pastel Blue,6aadcd
+146,Mx Teal Blue,477082
+147,Mx Violet,bc7d85
+148,Mx Pink,f684b0
+149,Mx Clear,ffffff
+150,Medium Dark Flesh,cb7131
+151,Speckle Black-Gold,a89740
+152,Light Aqua,adc3c0
+153,Dark Azure,198ac7
+154,Lavender,d3bbe1
+155,Olive Green,a9ab5e
+156,Medium Azure,70cede
+157,Medium Lavender,c685d3
+158,Yellowish Green,e7f3ab
+159,Glow In Dark White,d9d9d9
+160,Fabuland Orange,ed922f
+161,Dark Yellow,dc9939
+162,Glitter Trans-Light Blue,6bbcc4
+163,Glitter Trans-Neon Green,c0f737
+164,Trans-Light Orange,e79b43
+165,Neon Orange,f85949
+166,Neon Green,daf563
+210,Mx Foil Dark Gray,595d60
+211,Mx Foil Light Gray,9c9c9c
+212,Mx Foil Dark Green,46510
+213,Mx Foil Light Green,7db643
+214,Mx Foil Dark Blue,0e55a3
+215,Mx Foil Light Blue,6aadcd
+216,Mx Foil Violet,4b007f
+217,Mx Foil Red,8a0002
+218,Mx Foil Yellow,fdd661
+219,Mx Foil Orange,f6ae68
+220,Coral,fd8173
+221,Trans-Light Green,95e6ae
+222,Glitter Trans-Orange,ce4017
+223,Satin Trans-Light Blue,6bbcc4
+224,Satin Trans-Dark Pink,cd1298
+225,Dark Nougat,cd7a46
+226,Trans-Light Bright Green,73ed61
+227,Clikits Lavender,dfa9d7
+228,Satin Trans-Clear,ffffff
+229,Satin Trans-Brown,939485
+230,Satin Trans-Purple,8311b4
+231,Dark Salmon,fd632d
+232,Satin Trans-Dark Blue,214cde
+233,Satin Trans-Bright Green,80e365
+234,Trans-Medium Purple,9c3cb3
+235,Reddish Gold,e58a29
+236,Neon Yellow,fefe39
+237,Bionicle Copper,975751
+238,Bionicle Gold,b87635
+239,Bionicle Silver,a59288
+240,Medium Brown,a06c45
+241,Medium Tan,d8c697
+242,Dark Olive Green,767642
+243,Pearl Sand Purple,b5a0b9
+244,Pearl Black,282725
+245,Lilac,795ecb
+246,Light Lilac,cdcbed
+247,Little Robots Blue,61bee2
+248,Fabuland Lime,add447
+249,Reddish Copper,cf6a2d
+250,Metallic Copper,c4825c
+251,Trans-Black (2023),777777
